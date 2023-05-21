@@ -1,5 +1,3 @@
-Certainly! Here's the customized README file for the provided repository:
-
 # Credit Card Default Prediction
 
 This project aims to predict credit card defaults using machine learning models. It uses a dataset containing information about credit card holders, including their payment history, bill amounts, and demographic features. The goal is to build models that can accurately predict whether a credit card holder will default on their payment next month.
