@@ -78,4 +78,5 @@ The performance of the models on the testing set is evaluated using accuracy sco
 
 [1] Dataset: [UCI Credit Card Default Payment](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
 
-[2] scikit-learn documentation: [https://scikit-learn.org/](https
+[2] scikit-learn documentation: [https://scikit-learn.org/
+
